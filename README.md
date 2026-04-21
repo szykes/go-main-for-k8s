@@ -1,0 +1,1 @@
+# go-main-for-k8s
